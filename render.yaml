@@ -24,4 +24,4 @@ services:
         value: "ngan@gmail.com" 
       - key: USER_PASSWORD
         value: "ngan" 
-    preDeployCommand: "bundle exec rails db:migrate"
+    
