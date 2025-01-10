@@ -89,6 +89,7 @@
         padding-top: 60px; /* Cung cấp khoảng cách dưới navbar */
       }
     </style>
+    <%= stylesheet_link_tag "application", "data-turbo-track": "reload" %>
   </head>
   <body class="<%= 'new-product-page' if controller.controller_name == 'products' && action_name == 'new' %>">
     <div class="notice"><%= notice %></div>

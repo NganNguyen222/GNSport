@@ -19,5 +19,23 @@
   },
   "browserslist": [
     "defaults"
-  ]
+  ],
+  "version": "1.0.0",
+  "description": "This README would normally document whatever steps are necessary to get the\r application up and running.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NganNguyen222/GNSport.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NganNguyen222/GNSport/issues"
+  },
+  "homepage": "https://github.com/NganNguyen222/GNSport#readme"
 }
